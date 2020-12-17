@@ -1,6 +1,15 @@
 body{
     font-family: "Montserrat-Medium";
 }
+.scrolling-box{
+    background-color: #eaeaea;
+    display: block;
+    height: 950px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    text-align: center;
+    width: 1540px;
+}
 #title{
     background-color: #2EBC21;
     color: #fff;
